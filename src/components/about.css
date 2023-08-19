@@ -1,0 +1,20 @@
+.about-sec {
+  display: flex;
+  margin-top: 50px;
+}
+.about-sec .about-text h4 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+.about-sec .about-text p {
+  line-height: 2;
+  letter-spacing: 0.3px;
+}
+@media only screen and (max-width: 920px) {
+  .about-sec {
+    padding: 0 0 0 30px;
+  }
+  .about-sec .about-text h4 {
+    font-size: 1.7rem;
+  }
+}

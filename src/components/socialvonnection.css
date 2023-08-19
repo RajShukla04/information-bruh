@@ -1,0 +1,16 @@
+.socialConnection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+.connsctSocial {
+  display: flex;
+  gap: 6rem;
+}
+
+/* @media only screen and (max-width: 1000px) {
+  .socialConnection {
+    flex-direction: column;
+  }
+} */

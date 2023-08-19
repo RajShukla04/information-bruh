@@ -1,0 +1,32 @@
+.maindiv {
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  gap: 2rem;
+}
+.divbro {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  overflow-x: scroll;
+  gap: 1.6rem;
+  padding-top: 65px;
+}
+.itemTitle {
+  font-size: 1rem;
+}
+.popularPar {
+  display: flex;
+  flex-direction: column;
+  overflow-x: scroll;
+  position: relative;
+  padding-top: 3rem;
+  margin-top: 14rem;
+}
+.pop {
+  position: absolute;
+  left: 20px;
+  top: 3rem;
+}

@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.Apk {
+  width: 100%;
+  color: #fff;
+  /* display: flex; */
+  /* justify-content: center;
+  align-items: center; */
+  /* flex-direction: column; */
+  /* gap: 2rem; */
+}

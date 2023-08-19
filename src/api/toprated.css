@@ -1,0 +1,29 @@
+.parenttoprated {
+  position: relative;
+  top: 10px;
+  height: 60vh;
+  z-index: 1200;
+  color: #fff;
+}
+.toprateddiv {
+  position: relative;
+  height: 100%;
+}
+.thisimgh {
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  /* margin-left: 30px; */
+}
+.lol {
+  display: flex;
+  top: 0;
+  overflow-x: scroll;
+  gap: 2rem;
+}
+.lol button {
+  z-index: 999;
+}
+.hehe {
+  transform: translateX(-100px);
+}
